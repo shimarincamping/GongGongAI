@@ -1,5 +1,3 @@
-ffmpeg
-ffprobe
 google.generativeai
 pillow
 streamlit_audiorecorder
