@@ -1,0 +1,7 @@
+ffmpeg
+google.generativeai
+pillow
+streamlit_audiorecorder
+streamlit-scrollable-textbox
+streamlit-text-rating
+streamlit-audiorecorder
